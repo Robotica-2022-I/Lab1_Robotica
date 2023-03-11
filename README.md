@@ -21,7 +21,7 @@ El primer laboratorio consistió en lograr que el robot consiguiera escribir las
 ![Imagen 3]()
 
 - Junto a esto se le adicionó un resosrte de 8mm de diametró, con el cual se le permitia una compreción de aproximadamente 1 cm, de esta manera el marcador podía undirse para escribir bien en el tablero y retornar a su punto de partida sin que se afectara la integridad de la herramienta.
-![Imagen 3]()
+![Imagen 4]()
 
 # Código RAPID
 
