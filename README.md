@@ -42,7 +42,7 @@ Para la realización del código y la simulación se utilizó el software de Rob
 Nota: Los códigos para el Teach Pendat se encuentran adjuntos en el archivo "letras_final.rar"
 
 # Videos
-La simulación realizada en RobotStudio  y  los respectivos
+La simulación realizada en RobotStudio  y  la escritura en  posiciones distintas se presentan a continuación:
 
 - Simulación en Robot Studio:
 
