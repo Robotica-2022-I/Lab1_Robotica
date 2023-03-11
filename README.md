@@ -27,4 +27,4 @@ El primer laboratorio consistió en lograr que el robot consiguiera escribir las
 # Videos
 La simulación realizada en RobotStudio  y  los respectivos
 
-[![Alt text](https://img.youtube.com/vi/IdneKLhsWOQ/0.jpg)](https://www.youtube.com/watch?v=IdneKLhsWOQ)
+[![Alt text](https://img.youtube.com/vi/_I5JrFPRCUo/0.jpg)](https://www.youtube.com/watch?v=_I5JrFPRCUo)
