@@ -1,8 +1,8 @@
 # Lab1_Robotica
 
-Daniel Felipe Cantor Santana
-Juan David Morales
-David Cocoma
+Daniel Felipe Cantor Santana;
+Juan David Morales;
+David Cocoma;
 
 
 El primer laboratorio consistió en lograr que el robot consiguiera escribir las iniciales de cada uno de los integrantes del grupo.Esto se desarrolló siguiendo los siguientes pasos:
