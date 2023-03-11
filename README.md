@@ -27,9 +27,19 @@ El primer laboratorio consistió en lograr que el robot consiguiera escribir las
 
 Para la realización del código y la simulación se utilizó el software de Robot Studio 2022, el paso a paso fue:
 
-- paso a paso xd no sé 🥑 :v
+- Se posicionó el robot en el simulador
 
-- Se implementaron la letra D, J y C en paths distintos de manera que la programación de cada letra fuera independiente por si se lelgaba a presentar algún problema o error.
+- Se creó el controlador, ya que sin este no existirá una memoria para lo puntos y los paths
+
+- Se ubicó el workobject en el cuadrante positivo del plano y se se agregaron los puntos para las letras
+
+- Se implementaron la letra D, J y C en paths distintos de manera que la programación de cada letra fuera independiente por si se llegaba a presentar algún problema o error.
+
+- Se realizó el archivo mob para agregar bajar al teach pendat
+
+- Por último se calibró el robót hasta poder escribir las letras establecidas
+
+Nota: Los códigos para el Teach Pendat se encuentran adjuntos en el archivo "letras_final.rar"
 
 # Videos
 La simulación realizada en RobotStudio  y  los respectivos
