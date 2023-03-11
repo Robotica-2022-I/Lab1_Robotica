@@ -34,8 +34,8 @@ La simulación realizada en RobotStudio  y  los respectivos
 [![Alt text](https://img.youtube.com/vi/_I5JrFPRCUo/0.jpg)](https://www.youtube.com/watch?v=_I5JrFPRCUo)
 
 - Escritura en el laboratorio.
-[![Alt text]([https://img.youtube.com/vi/_I5JrFPRCUo/0.jpg)](https://www.youtube.com/watch?v=_I5JrFPRCUo](https://youtube.com/shorts/eHptf9mHE9Y))
+[![Alt text](https://img.youtube.com/vi/eHptf9mHE9Y/0.jpg)](https://youtube.com/shorts/eHptf9mHE9Y)
 
 - Cambio de plano.
-[![Alt text]([[https://img.youtube.com/vi/_I5JrFPRCUo/0.jpg)](https://www.youtube.com/watch?v=_I5JrFPRCUo](https://youtube.com/shorts/eHptf9mHE9Y](https://youtube.com/shorts/Glbab0HQlO8)))
+[![Alt text](https://img.youtube.com/vi/Glbab0HQlO8/0.jpg)](https://youtube.com/shorts/Glbab0HQlO8)
 
