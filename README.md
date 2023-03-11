@@ -2,9 +2,9 @@
 
 Daniel Felipe Cantor Santana
 
-Juan David Morales
+Juan David Morales Restrepo
 
-David Cocoma
+David Leonardo Cocoma Reyes
 
 
 
