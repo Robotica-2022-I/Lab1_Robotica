@@ -22,6 +22,9 @@ El primer laboratorio consistió en lograr que el robot consiguiera escribir las
 
 # Código RAPID
 
+
+
 # Videos
-La simulación realizada en RobotStudio  y  los respectivos 
+La simulación realizada en RobotStudio  y  los respectivos
+
 [![Alt text](https://img.youtube.com/vi/IdneKLhsWOQ/0.jpg)](https://www.youtube.com/watch?v=IdneKLhsWOQ)
