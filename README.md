@@ -25,7 +25,11 @@ El primer laboratorio consistió en lograr que el robot consiguiera escribir las
 
 # Código RAPID
 
+Para la realización del código y la simulación se utilizó el software de Robot Studio 2022, el paso a paso fue:
 
+- paso a paso xd no sé 🥑 :v
+
+- Se implementaron la letra D, J y C en paths distintos de manera que la programación de cada letra fuera independiente por si se lelgaba a presentar algún problema o error.
 
 # Videos
 La simulación realizada en RobotStudio  y  los respectivos
